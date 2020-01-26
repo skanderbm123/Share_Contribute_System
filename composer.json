@@ -1,0 +1,7 @@
+{
+
+    "require": {
+        "swiftmailer/swiftmailer": "6.0",
+        "paypal/rest-api-sdk-php": "1.13"
+    }
+}
